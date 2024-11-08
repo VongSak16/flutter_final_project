@@ -1,0 +1,25 @@
+git init
+git config user.name "Name"
+git config user.email "name@gmail.com"
+git remote add origin git@github.com:User/UserRepo.git
+git branch -m master main
+git add .
+git commit -m "1st commit"
+git push -u origin main
+
+Project Final(20pts)
+1. Flutter(Product list,Product Details)
+2. Flask,.... API(Product list,Product Details)
+3. Front + Back -> GitHub
+4. Video Demo app + api (YouTube)
+
+
+
+git init
+git config user.name "VongSak16"
+git config user.email "school.vongsak@gmail.com"
+git branch -m master main
+git add .
+git commit -m "1st commit"
+git remote add origin https://github.com/VongSak16/flutter_final_project.git
+git push -u origin main
