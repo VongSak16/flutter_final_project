@@ -12,14 +12,3 @@ Project Final(20pts)
 2. Flask,.... API(Product list,Product Details)
 3. Front + Back -> GitHub
 4. Video Demo app + api (YouTube)
-
-
-
-git init
-git config user.name "VongSak16"
-git config user.email "school.vongsak@gmail.com"
-git branch -m master main
-git add .
-git commit -m "1st commit"
-git remote add origin https://github.com/VongSak16/flutter_final_project.git
-git push -u origin main
